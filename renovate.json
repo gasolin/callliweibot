@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "config:base"
+  ],
+  "pinVersions": false,
+  "packageFiles": [
+    {
+      "packageFile": "package.json",
+      "pinVersions": false
+    },
+    {
+      "packageFile": "line/package.json",
+      "pinVersions": false
+    }
+  ]
+}
