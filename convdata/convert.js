@@ -18,6 +18,7 @@ csv()
       email: jsonObj.email,
       facebook: jsonObj.facebook,
       lineid: jsonObj.lineid,
+      picurl: jsonObj,
     });
   })
   .on('done', (error) => {
