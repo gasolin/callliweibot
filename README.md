@@ -2,6 +2,9 @@ A g0v.tw project for query legislator's contact information via message bot (Cur
 
 ## Demo
 
+## Setup (LINE)
+
+Create a bot in LINE, setup `accessToken` and `channelSecret` in `bottender.config.js`.
 
 ## Project information and contributors
 

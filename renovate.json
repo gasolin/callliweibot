@@ -9,6 +9,10 @@
       "pinVersions": false
     },
     {
+      "packageFile": "convdata/package.json",
+      "pinVersions": false
+    },
+    {
       "packageFile": "line/package.json",
       "pinVersions": false
     }
