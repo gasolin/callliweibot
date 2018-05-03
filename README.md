@@ -2,6 +2,8 @@ A g0v.tw project for query legislator's contact information via instant messagin
 
 ## Demo
 
+![Imgur](https://i.imgur.com/G1HzZyal.jpg)
+
 Add LINE bot via https://line.me/R/ti/p/%40ybi3779e
 
 Or scan in LINE with QRCode
