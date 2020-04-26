@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "bottender": "0.14.34",
+    "bottender": "0.15.18",
     "fuse.js": "^3.2.0"
   },
   "devDependencies": {
